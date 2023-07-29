@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Remove_Image_Background/static/css/main.036055cf.css",
+    "main.js": "/Remove_Image_Background/static/js/main.cadd1d8d.js",
+    "static/media/shivam.png": "/Remove_Image_Background/static/media/shivam.95f520a9d7e6fc5e2dcf.png",
+    "index.html": "/Remove_Image_Background/index.html",
+    "main.036055cf.css.map": "/Remove_Image_Background/static/css/main.036055cf.css.map",
+    "main.cadd1d8d.js.map": "/Remove_Image_Background/static/js/main.cadd1d8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.036055cf.css",
+    "static/js/main.cadd1d8d.js"
+  ]
+}
