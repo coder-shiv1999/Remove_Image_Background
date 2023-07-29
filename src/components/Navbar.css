@@ -1,0 +1,28 @@
+
+.navcontainer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: sticky;
+    z-index: 50;
+    background-color: aliceblue;
+    box-shadow: 0px 5px 15px #abb7e9;
+    height: 4rem;
+    position: fixed;
+    top: 0;
+  }
+
+
+.logo1, .logo2{
+    cursor: pointer;
+    font-size: 22px;
+    transition: transform .5s;
+    font-family: 'Poppins', sans-serif;
+}
+.logo1:hover,.logo2:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    color: #784cfb;
+  }
+  
